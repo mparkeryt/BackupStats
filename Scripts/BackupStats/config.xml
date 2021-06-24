@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<configuration>
+    <customer name="" />
+    <iDrive 
+        logPath="C:\ProgramData\IDrive\IBCOMMON\logs\@yalltech.com\SERVER\"
+        exePath="C:\Program Files (x86)\YallTechWindows\id_win.exe"/>
+</configuration>
